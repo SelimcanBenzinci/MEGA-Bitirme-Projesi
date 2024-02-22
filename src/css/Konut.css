@@ -1,0 +1,21 @@
+.col-sm-6 img{
+	width:500px;
+	height:300px;
+}
+
+.col-sm-4 p{
+	margin-bottom:20px;
+	margin-top:40px;
+	color:black;
+	text-align:justify;
+	text-justify:inter-word;
+	line-height:30px;
+}
+
+h2 a{
+	font-size:30px;
+}
+
+.row{
+	justify-content:space-around;
+}

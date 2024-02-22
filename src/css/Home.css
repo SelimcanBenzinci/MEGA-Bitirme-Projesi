@@ -1,0 +1,41 @@
+.home-background{
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.home-image{
+	width:350px;
+	height:200px;
+}
+
+.home-image-top{
+	width:350px;
+	height:200px;
+	margin-top:10px;
+}
+
+.home-image-bottom{
+	width:350px;
+	height:210px;
+	margin-top:10px;
+}
+
+.bio{
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size:large;
+	font-weight:bold;
+	color:white;
+	text-shadow:5px 5px 5px 5px white;
+	/* letter-spacing: 1px; */
+	backdrop-filter:blur(2px);
+}
+
+#videos{
+	border:6px solid black;
+}
+
+.head{
+	font-family:Arial, Helvetica, sans-serif;
+	transform:translate(1%, 190%);
+	color:white;
+}

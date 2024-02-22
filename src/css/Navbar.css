@@ -1,0 +1,33 @@
+.sticky{
+	position:fixed;
+	z-index:1;
+	top:0;
+	right:0;
+	left:0;
+}
+
+#navcont{
+	height:80px;
+	background:linear-gradient(267deg, #066069 0%, #1e7d62 38.49%, #8aca38 100%);
+	filter:drop-shadow(0px 20px 50px rgba(0, 0, 0, 0.16));
+}
+
+.navbar-brand{
+	font-weight:600;
+	display:flex;
+}
+
+.navbar-brand p{
+	line-height:22px;
+	display:flex;
+	align-items:center;
+	margin:0;
+	text-align:left;
+}
+
+.navbar-brand img{
+	width:60px;
+	height:60px;
+	margin-right:20px;
+	margin-left:10px;
+}

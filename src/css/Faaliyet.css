@@ -1,0 +1,15 @@
+.col-sm-6 img{
+	height:300px;
+	width:500px;
+	margin-top:20px;
+	margin-bottom:30px;
+}
+
+.col-sm-4 h4{
+	margin-top:50px;
+}
+
+.col-sm-4 h5{
+	text-align:right;
+	color:orange;
+}
